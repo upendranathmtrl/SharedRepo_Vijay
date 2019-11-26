@@ -9,7 +9,7 @@ package pack1;
 	}
 }
 
- //System.out.println(args[1]+args [2]+args[3]);
+ //System.out.println(args[1]+argss[2]+args[3]);
 	/*	final int i=5,j=2;
 		System.out.println(i%j);
 		int myArr[] = new int[7];
